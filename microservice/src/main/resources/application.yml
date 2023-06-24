@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: microservice
+
+  main:
+    web-application-type: reactive
+server:
+  port: 9090
+
+
+
+
